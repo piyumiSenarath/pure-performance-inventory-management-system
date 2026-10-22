@@ -1,0 +1,368 @@
+part_id,part_no,part_name,quantity,vehicle_model,model_year,part_condition,category_id
+1,EK3BNT,Bonnet,0,Honda Civic EK3,1995,Japan Recondition,4
+2,EK3BNTCRY,Bonnet Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+3,EK3BUFFF,Buffer Front,0,Honda Civic EK3,1995,Japan Recondition,4
+4,EK3BUFFFCRY,Buffer Front Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+5,EK3BUFFR,Buffer Rear,0,Honda Civic EK3,1995,Japan Recondition,4
+6,EK3BUFFRCRY,Buffer Rear Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+7,EK3FNDRH,Fender Right,0,Honda Civic EK3,1995,Japan Recondition,4
+8,EK3FNDRHCRY,Fender Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+9,EK3FNDLH,Fender Left,0,Honda Civic EK3,1995,Japan Recondition,4
+10,EK3FNDLHCRY,Fender Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+11,EK3HDLHTRH,Headlight Right,0,Honda Civic EK3,1995,Japan Recondition,6
+12,EK3HDLHTRHCRY,Headlight Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+13,EK3HDLHTLH,Headlight Left,0,Honda Civic EK3,1995,Japan Recondition,6
+14,EK3HDLHTLHCRY,Headlight Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+15,EK3DOPNLFR,Door Panel (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+16,EK3DOPNLFRCRY,Door Panel (F/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,5
+17,EK3DOPNLFL,Door Panel (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+18,EK3DOPNLFLCRY,Door Panel (F/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,5
+19,EK3DOPNLRR,Door Panel (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+20,EK3DOPNLRRCRY,Door Panel (R/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,5
+21,EK3DOPNLRL,Door Panel (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+22,EK3DOPNLRLCRY,Door Panel (R/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,5
+23,EK3CDKY,Complete Dicky,0,Honda Civic EK3,1995,Japan Recondition,4
+24,EK3CDKYCRY,Complete Dicky Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+25,EK3DKYRH,Dicky Light Right,0,Honda Civic EK3,1995,Japan Recondition,4
+26,EK3DKYRHCRY,Dicky Light Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+27,EK3DKYLH,Dicky Light Left,0,Honda Civic EK3,1995,Japan Recondition,4
+28,EK3DKYLHCRY,Dicky Light Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+29,EK3TLHTRH,Tail Light Right,0,Honda Civic EK3,1995,Japan Recondition,6
+30,EK3TLHTRHCRY,Tail Light Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+31,EK3TLHTLH,Tail Light Left,0,Honda Civic EK3,1995,Japan Recondition,6
+32,EK3TLHTLHCRY,Tail Light Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+33,EK3SSKRH,Side Skirt Right,0,Honda Civic EK3,1995,Japan Recondition,4
+34,EK3SSKRHCRY,Side Skirt Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+35,EK3SSKLH,Side Skirt Left,0,Honda Civic EK3,1995,Japan Recondition,4
+36,EK3SSKLHCRY,Side Skirt Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+37,EK3DPMRH,Dual Power Mirror Right,0,Honda Civic EK3,1995,Japan Recondition,6
+38,EK3DPMRHCRY,Dual Power Mirror Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+39,EK3DPMLH,Dual Power Mirror Left,0,Honda Civic EK3,1995,Japan Recondition,6
+40,EK3DPMLHCRY,Dual Power Mirror Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+41,EK3SPMRH,Single Power Mirror Right,0,Honda Civic EK3,1995,Japan Recondition,6
+42,EK3SPMRHCRY,Single Power Mirror Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+43,EK3SPMLH,Single Power Mirror Left,0,Honda Civic EK3,1995,Japan Recondition,6
+44,EK3SPMLHCRY,Single Power Mirror Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+45,EK3SMMRH,Side Mirror Manual Right,0,Honda Civic EK3,1995,Japan Recondition,6
+46,EK3SMMRHCRY,Side Mirror Manual Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+47,EK3SMMLH,Side Mirror Manual Left,0,Honda Civic EK3,1995,Japan Recondition,6
+48,EK3SMMLHCRY,Side Mirror Manual Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+49,EK3BBRH,Body Beading Right,0,Honda Civic EK3,1995,Japan Recondition,4
+50,EK3BBRHCRY,Body Beading Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+51,EK3BBLH,Body Beading Left,0,Honda Civic EK3,1995,Japan Recondition,4
+52,EK3BBLHCRY,Body Beading Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+53,EK3HDB,Hood Beading (L/R),0,Honda Civic EK3,1995,Japan Recondition,4
+54,EK3HDBCRY,Hood Beading (L/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+55,EK3WSCRF,Windscreen Front,0,Honda Civic EK3,1995,Japan Recondition,4
+56,EK3WSCRFCRY,Windscreen Front Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+57,EK3WSCRR,Windscreen Rear,0,Honda Civic EK3,1995,Japan Recondition,4
+58,EK3WSCRRCRY,Windscreen Rear Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+59,EK3DGLFR,Door Glass (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+60,EK3DGLFRCRY,Door Glass (F/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+61,EK3DGLFL,Door Glass (F/L),0,Honda Civic EK3,1995,Japan Recondition,4
+62,EK3DGLFLCRY,Door Glass (F/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+63,EK3DGLRR,Door Glass (R/R),0,Honda Civic EK3,1995,Japan Recondition,4
+64,EK3DGLRRCRY,Door Glass (R/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+65,EK3DGLRL,Door Glass (R/L),0,Honda Civic EK3,1995,Japan Recondition,4
+66,EK3DGLRLCRY,Door Glass (R/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+67,EK3WDMFR,Winder Motor (F/R),0,Honda Civic EK3,1995,Japan Recondition,6
+68,EK3WDMFL,Winder Motor (F/L),0,Honda Civic EK3,1995,Japan Recondition,6
+69,EK3WDMRR,Winder Motor (R/R),0,Honda Civic EK3,1995,Japan Recondition,6
+70,EK3WDMRL,Winder Motor (R/L),0,Honda Civic EK3,1995,Japan Recondition,6
+71,EK3DHOFR,Door Handle Outer (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+72,EK3DHOFL,Door Handle Outer (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+73,EK3DHORR,Door Handle Outer (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+74,EK3DHORL,Door Handle Outer (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+75,EK3DHIFR,Door Handle Inner (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+76,EK3DHIFL,Door Handle Inner (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+77,EK3DHIRR,Door Handle Inner (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+78,EK3DHIRL,Door Handle Inner (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+79,EK3DGBFR,Door Glass Beading (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+80,EK3DGBFRCRY,Door Glass Beading (F/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+81,EK3DGBFL,Door Glass Beading (F/L),0,Honda Civic EK3,1995,Japan Recondition,4
+82,EK3DGBFLCRY,Door Glass Beading (F/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+83,EK3DGBRR,Door Glass Beading (R/R),0,Honda Civic EK3,1995,Japan Recondition,4
+84,EK3DGBRRCRY,Door Glass Beading (R/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+85,EK3DGBRL,Door Glass Beading (R/L),0,Honda Civic EK3,1995,Japan Recondition,4
+86,EK3DGBRLCRY,Door Glass Beading (R/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+87,EK3DBUFR,Door Beading Upper (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+88,EK3DBUFL,Door Beading Upper (F/L),0,Honda Civic EK3,1995,Japan Recondition,4
+89,EK3DBURR,Door Beading Upper (R/R),0,Honda Civic EK3,1995,Japan Recondition,4
+90,EK3DBURL,Door Beading Upper (R/L),0,Honda Civic EK3,1995,Japan Recondition,4
+91,EK3BSBFR,Body Seal Beading (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+92,EK3BSBFL,Body Seal Beading (F/L),0,Honda Civic EK3,1995,Japan Recondition,4
+93,EK3BSBRR,Body Seal Beading (R/R),0,Honda Civic EK3,1995,Japan Recondition,4
+94,EK3BSBRL,Body Seal Beading (R/L),0,Honda Civic EK3,1995,Japan Recondition,4
+95,EK3DSW,Door Switch,0,Honda Civic EK3,1995,Japan Recondition,6
+96,EK3FNDLHTRH,Fender Light Right,0,Honda Civic EK3,1995,Japan Recondition,4
+97,EK3FNDLHTRHCRY,Fender Light Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+98,EK3FNDLHTLH,Fender Light Left,0,Honda Civic EK3,1995,Japan Recondition,4
+99,EK3FNDLHTLHCRY,Fender Light Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+100,EK3DKY,Dicky Inner Light,0,Honda Civic EK3,1995,Japan Recondition,4
+101,EK3INGRDRH,Inner Guard Right,0,Honda Civic EK3,1995,Japan Recondition,4
+102,EK3INGRDRHCRY,Inner Guard Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+103,EK3INGRDLH,Inner Guard Left,0,Honda Civic EK3,1995,Japan Recondition,4
+104,EK3INGRDLHCRY,Inner Guard Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+105,EK3SIGLHTRH,Signal Light Right,0,Honda Civic EK3,1995,Japan Recondition,6
+106,EK3SIGLHTRHCRY,Signal Light Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+107,EK3SIGLHTLH,Signal Light Left,0,Honda Civic EK3,1995,Japan Recondition,6
+108,EK3SIGLHTLHCRY,Signal Light Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+109,EK3WSTRFR,Weather Strip (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+110,EK3WSTRFL,Weather Strip (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+111,EK3WSTRRR,Weather Strip (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+112,EK3WSTRRL,Weather Strip (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+113,EK3DMOULDFR,Door Mould (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+114,EK3DMOULDFL,Door Mould (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+115,EK3DMOULDRR,Door Mould (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+116,EK3DMOULDRL,Door Mould (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+117,EK3DLOCKFR,Door Lock (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+118,EK3DLOCKFL,Door Lock (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+119,EK3DLOCKRR,Door Lock (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+120,EK3DLOCKRL,Door Lock (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+121,EK3CLMFR,Central Lock Motor (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+122,EK3CLMFL,Central Lock Motor (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+123,EK3CLMRR,Central Lock Motor (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+124,EK3CLMRL,Central Lock Motor (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+125,EK3DUPHFR,Door Upholstery (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+126,EK3DUPHFL,Door Upholstery (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+127,EK3DUPHRR,Door Upholstery (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+128,EK3DUPHRL,Door Upholstery (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+129,EK3WDSWFL,Winder Switch (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+130,EK3WDSWRR,Winder Switch (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+131,EK3WDSWRL,Winder Switch (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+132,EK3WMCS,Winder Master Control Switch,0,Honda Civic EK3,1995,Japan Recondition,6
+133,EK3DSTPFR,Door Stopper (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+134,EK3DSTPFL,Door Stopper (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+135,EK3DSTPRR,Door Stopper (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+136,EK3DSTPRL,Door Stopper (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+137,EK3DPUFR,Door Pin Upper (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+138,EK3DPUFL,Door Pin Upper (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+139,EK3DPURR,Door Pin Upper (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+140,EK3DPURL,Door Pin Upper (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+141,EK3DPLFR,Door Pin Lower (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+142,EK3DPLFL,Door Pin Lower (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+143,EK3DPLRR,Door Pin Lower (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+144,EK3DPLRL,Door Pin Lower (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+145,EK3DWHFR,Door Wire Harness (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+146,EK3DWHFL,Door Wire Harness (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+147,EK3DWHRR,Door Wire Harness (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+148,EK3DWHRL,Door Wire Harness (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+149,EK3DCU,Door Control Unit,0,Honda Civic EK3,1995,Japan Recondition,4
+150,EK3DVSRFR,Door Visor (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+151,EK3DVSRFL,Door Visor (F/L),0,Honda Civic EK3,1995,Japan Recondition,4
+152,EK3DVSRRR,Door Visor (R/R),0,Honda Civic EK3,1995,Japan Recondition,4
+153,EK3DVSRFR-2,Door Visor (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+154,EK3CDASH,Complete Dashboard,0,Honda Civic EK3,1995,Japan Recondition,5
+155,EK3DASH,Dashboard Panel,0,Honda Civic EK3,1995,Japan Recondition,5
+156,EK3DDP,Double Din Panel,0,Honda Civic EK3,1995,Japan Recondition,1
+157,EK3DWHAR,Dashboard Wire Harness,0,Honda Civic EK3,1995,Japan Recondition,5
+158,EK3ACV,AC Vent,0,Honda Civic EK3,1995,Japan Recondition,7
+159,EK3GB,Glove Box,0,Honda Civic EK3,1995,Japan Recondition,1
+160,EK3ACPS,AC Control Panel Setup,0,Honda Civic EK3,1995,Japan Recondition,7
+161,EK3MCL,Meter Cluster,0,Honda Civic EK3,1995,Japan Recondition,1
+162,EK3FBC,Fuse Box Cover,0,Honda Civic EK3,1995,Japan Recondition,6
+163,EK3ATP,Ash Tray Panel,0,Honda Civic EK3,1995,Japan Recondition,1
+164,EK3CCDDP,Center Cluster Double Din Panel,0,Honda Civic EK3,1995,Japan Recondition,1
+165,EK3AR,Arm Rest,0,Honda Civic EK3,1995,Japan Recondition,1
+166,EK3HBC,Handbrake Cover,0,Honda Civic EK3,1995,Japan Recondition,3
+167,EK3HBL,Handbrake lever,0,Honda Civic EK3,1995,Japan Recondition,3
+168,EK3GSH,Gear Shifter,0,Honda Civic EK3,1995,Japan Recondition,1
+169,EK3SCOL,Steering Column,0,Honda Civic EK3,1995,Japan Recondition,5
+170,EK3SW,Steering Wheel,0,Honda Civic EK3,1995,Japan Recondition,5
+171,EK3KB,Key Barrel,0,Honda Civic EK3,1995,Japan Recondition,5
+172,EK3CSW,Column Switch Wiper,0,Honda Civic EK3,1995,Japan Recondition,5
+173,EK3CSH,Column Switch Headlight,0,Honda Civic EK3,1995,Japan Recondition,5
+174,EK3CCOV,Column Cover,0,Honda Civic EK3,1995,Japan Recondition,5
+175,EK3MPS,Manual Paddle set,0,Honda Civic EK3,1995,Japan Recondition,5
+176,EK3APS,Auto Paddle Set,0,Honda Civic EK3,1995,Japan Recondition,5
+177,EK3ACB,AC Blower,0,Honda Civic EK3,1995,Japan Recondition,7
+178,EK3ACC,AC Cooler,0,Honda Civic EK3,1995,Japan Recondition,7
+179,EK3HBX,Heater Box,0,Honda Civic EK3,1995,Japan Recondition,7
+180,EK3FCARP,Floor Carpet,0,Honda Civic EK3,1995,Japan Recondition,5
+181,EK3CARPSET,Carpet Set,0,Honda Civic EK3,1995,Japan Recondition,5
+182,EK3SEATSET,Seat Set,0,Honda Civic EK3,1995,Japan Recondition,5
+183,EK3DSTRFR,Door Strip (F/R),0,Honda Civic EK3,1995,Japan Recondition,5
+184,EK3DSTRFL,Door Strip (F/L),0,Honda Civic EK3,1995,Japan Recondition,5
+185,EK3DSTRRR,Door Strip (R/R),0,Honda Civic EK3,1995,Japan Recondition,5
+186,EK3DSTRRL,Door Strip (R/L),0,Honda Civic EK3,1995,Japan Recondition,5
+187,EK3HUPH,Hood Upholstery,0,Honda Civic EK3,1995,Japan Recondition,5
+188,EK3HL,Hood Light,0,Honda Civic EK3,1995,Japan Recondition,5
+189,EK3RLAMP,Reading Lamp,0,Honda Civic EK3,1995,Japan Recondition,5
+190,EK3HH,Hood Handle,0,Honda Civic EK3,1995,Japan Recondition,1
+191,EK3SVRH,Sun Visor Right,0,Honda Civic EK3,1995,Japan Recondition,5
+192,EK3SVLH,Sun Visor Left,0,Honda Civic EK3,1995,Japan Recondition,5
+193,EK3UUS,Upper Upholstery Set,0,Honda Civic EK3,1995,Japan Recondition,5
+194,EK3LUS,Lower Upholstery Set,0,Honda Civic EK3,1995,Japan Recondition,5
+195,EK3SPB,Speaker Board,0,Honda Civic EK3,1995,Japan Recondition,5
+196,EK3THL,Third Lamp,0,Honda Civic EK3,1995,Japan Recondition,6
+197,EK3SBS,Seat Belt Set,0,Honda Civic EK3,1995,Japan Recondition,5
+198,EK3WSMRH,Windscreen Moulding Right,0,Honda Civic EK3,1995,Japan Recondition,4
+199,EK3WSMRHCRY,Windscreen Moulding Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+200,EK3WSMLH,Windscreen Moulding Left,0,Honda Civic EK3,1995,Japan Recondition,4
+201,EK3WSMLHCRY,Windscreen Moulding Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+202,EK3CMIR,Center Mirror,0,Honda Civic EK3,1995,Japan Recondition,5
+203,EK3DKUPH,Dicky Upholstery,0,Honda Civic EK3,1995,Japan Recondition,5
+204,EK3DKCARP,Dicky Carpet,0,Honda Civic EK3,1995,Japan Recondition,5
+205,EK3DKBOARD,Dicky Board,0,Honda Civic EK3,1995,Japan Recondition,5
+206,EK3DKLC,Dicky Lock Cover,0,Honda Civic EK3,1995,Japan Recondition,4
+207,EK3DKLOCK,Dicky Lock,0,Honda Civic EK3,1995,Japan Recondition,4
+208,EK3DKCAB,Dicky Cabel,0,Honda Civic EK3,1995,Japan Recondition,5
+209,EK3FLID,Fuel Lid,0,Honda Civic EK3,1995,Japan Recondition,5
+210,EK3FLCAB,Fuel Lid Cabel,0,Honda Civic EK3,1995,Japan Recondition,5
+211,EK3FLDO,Fuel Lid Dicky Opener,0,Honda Civic EK3,1995,Japan Recondition,5
+212,EK3TLBRH,Tail Light Bracket Right,0,Honda Civic EK3,1995,Japan Recondition,6
+213,EK3TLBRHCRY,Tail Light Bracket Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+214,EK3TLBLH,Tail Light Bracket Left,0,Honda Civic EK3,1995,Japan Recondition,6
+215,EK3TLBLHCRY,Tail Light Bracket Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,6
+216,EK3SHKFR,Shock (F/R),0,Honda Civic EK3,1995,Japan Recondition,2
+217,EK3SHKFL,Shock (F/L),0,Honda Civic EK3,1995,Japan Recondition,2
+218,EK3SHKRR,Shock (R/R),0,Honda Civic EK3,1995,Japan Recondition,2
+219,EK3SHKFR-2,Shock (F/R),0,Honda Civic EK3,1995,Japan Recondition,2
+220,EK3LARH,Lower Arm Right,0,Honda Civic EK3,1995,Japan Recondition,2
+221,EK3LALH,Lower Arm Left,0,Honda Civic EK3,1995,Japan Recondition,2
+222,EK3UARH,Upper Arm Right,0,Honda Civic EK3,1995,Japan Recondition,2
+223,EK3UALH,Upper Arm Left,0,Honda Civic EK3,1995,Japan Recondition,2
+224,EK3FDHFRH,Front Disk Hub Right,0,Honda Civic EK3,1995,Japan Recondition,3
+225,EK3FDHFLH,Front Disk Hub Left,0,Honda Civic EK3,1995,Japan Recondition,3
+226,EK3BHFFRH,Brake Hose Front Right,0,Honda Civic EK3,1995,Japan Recondition,3
+227,EK3BHFFLH,Brake Hose Front Left,0,Honda Civic EK3,1995,Japan Recondition,3
+228,EK3KNKRH,Knuckle Right,0,Honda Civic EK3,1995,Japan Recondition,3
+229,EK3KNKLH,Knuckle Left,0,Honda Civic EK3,1995,Japan Recondition,3
+230,EK3CALRH,Caliper Right,0,Honda Civic EK3,1995,Japan Recondition,3
+231,EK3CALLH,Caliper Left,0,Honda Civic EK3,1995,Japan Recondition,3
+232,EK3DSK,Disk,0,Honda Civic EK3,1995,Japan Recondition,3
+233,EK3TARH,Trailing Arm Right,0,Honda Civic EK3,1995,Japan Recondition,2
+234,EK3TALH,Trailing Arm Left,0,Honda Civic EK3,1995,Japan Recondition,2
+235,EK3LARRRH,Lower Arm Rear Right,0,Honda Civic EK3,1995,Japan Recondition,2
+236,EK3LARRLH,Lower Arm Rear Left,0,Honda Civic EK3,1995,Japan Recondition,2
+237,EK3UARRRH,Upper Arm Rear Right,0,Honda Civic EK3,1995,Japan Recondition,2
+238,EK3UARRLH,Upper Arm Rear Left,0,Honda Civic EK3,1995,Japan Recondition,2
+239,EK3SWARH,Swim Arm Right,0,Honda Civic EK3,1995,Japan Recondition,2
+240,EK3SWALH,Swim Arm Left,0,Honda Civic EK3,1995,Japan Recondition,2
+241,EK3HBCABRH,Handbrake Cabel Right,0,Honda Civic EK3,1995,Japan Recondition,3
+242,EK3HBCABLH,Handbrake Cabel Left,0,Honda Civic EK3,1995,Japan Recondition,3
+243,EK3RHUBR,Rear Hub,0,Honda Civic EK3,1995,Japan Recondition,2
+244,EK3RDRR,Rear Drum,0,Honda Civic EK3,1995,Japan Recondition,1
+245,EK3LINRH,Liner Set Right,0,Honda Civic EK3,1995,Japan Recondition,2
+246,EK3LINLH,Liner Set Left,0,Honda Civic EK3,1995,Japan Recondition,2
+247,EK3BCYLRH,Brake Cylinder Right,0,Honda Civic EK3,1995,Japan Recondition,3
+248,EK3BCYLLH,Brake Cylinder Left,0,Honda Civic EK3,1995,Japan Recondition,3
+249,EK3BHRRRH,Brake Hose Rear Right,0,Honda Civic EK3,1995,Japan Recondition,3
+250,EK3BHRRLH,Brake Hose Rear Left,0,Honda Civic EK3,1995,Japan Recondition,3
+251,EK3PSR,Power Steering Rack,0,Honda Civic EK3,1995,Japan Recondition,2
+252,EK3RERH,Rack End Right,0,Honda Civic EK3,1995,Japan Recondition,2
+253,EK3RELH,Rack End Left,0,Honda Civic EK3,1995,Japan Recondition,2
+254,EK3TRERH,Tie Rod End Right,0,Honda Civic EK3,1995,Japan Recondition,2
+255,EK3TRELH,Tie Rod End Left,0,Honda Civic EK3,1995,Japan Recondition,2
+256,EK3EB,Engine Bed,0,Honda Civic EK3,1995,Japan Recondition,2
+257,EK3PSH,Power Steering Hose,0,Honda Civic EK3,1995,Japan Recondition,2
+258,EK3EBM,Engine Bed Mount,0,Honda Civic EK3,1995,Japan Recondition,2
+259,EK3EGM,Engine Gel Mount,0,Honda Civic EK3,1995,Japan Recondition,2
+260,EK3GBM,Gearbox Mount,0,Honda Civic EK3,1995,Japan Recondition,2
+261,EK3FGLMF,Front Gearbox Lower Mount,0,Honda Civic EK3,1995,Japan Recondition,2
+262,EK3ACBM,AC Bracket Mount,0,Honda Civic EK3,1995,Japan Recondition,7
+263,EK3BBWP,Brake Booster With Pump,0,Honda Civic EK3,1995,Japan Recondition,3
+264,EK3BV,Brake Valve,0,Honda Civic EK3,1995,Japan Recondition,3
+265,EK3CPU,Clutch Pump Upper,0,Honda Civic EK3,1995,Japan Recondition,1
+266,EK3CPL,Clutch Pump Lower,0,Honda Civic EK3,1995,Japan Recondition,1
+267,EK3BATB,Battery Bracket,0,Honda Civic EK3,1995,Japan Recondition,4
+268,EK3RAD,Radiator,0,Honda Civic EK3,1995,Japan Recondition,7
+269,EK3RADF,Radiator Fan,0,Honda Civic EK3,1995,Japan Recondition,7
+270,EK3ACCD,AC Condenser,0,Honda Civic EK3,1995,Japan Recondition,7
+271,EK3ACCF,AC Condenser Fan,0,Honda Civic EK3,1995,Japan Recondition,7
+272,EK3OT,Overflow Tank,0,Honda Civic EK3,1995,Japan Recondition,7
+273,EK3POCC,Power Oil Catch Can,0,Honda Civic EK3,1995,Japan Recondition,1
+274,EK3WWT,Wiper Washer Tank,0,Honda Civic EK3,1995,Japan Recondition,7
+275,EK3MDFFR,Mud Flap (F/R),0,Honda Civic EK3,1995,Japan Recondition,4
+276,EK3MDFFRCRY,Mud Flap (F/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+277,EK3MDFFL,Mud Flap (F/L),0,Honda Civic EK3,1995,Japan Recondition,4
+278,EK3MDFFLCRY,Mud Flap (F/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+279,EK3MDFRR,Mud Flap (R/R),0,Honda Civic EK3,1995,Japan Recondition,4
+280,EK3MDFRRCRY,Mud Flap (R/R) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+281,EK3MDFRL,Mud Flap (R/L),0,Honda Civic EK3,1995,Japan Recondition,4
+282,EK3MDFRLCRY,Mud Flap (R/L) Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+283,EK3ENGGRDRH,Engine Guard Right,0,Honda Civic EK3,1995,Japan Recondition,4
+284,EK3ENGGRDLH,Engine Guard Left,0,Honda Civic EK3,1995,Japan Recondition,4
+285,EK3BNTH,Bonnet Hinges,0,Honda Civic EK3,1995,Japan Recondition,4
+286,EK3DKH,Dicky Hinges,0,Honda Civic EK3,1995,Japan Recondition,4
+287,EK3CENG,Complete Engine,0,Honda Civic EK3,1995,Japan Recondition,1
+288,EK3EMOT,Engine Mott,0,Honda Civic EK3,1995,Japan Recondition,1
+289,EK3EHD,Engine Head,0,Honda Civic EK3,1995,Japan Recondition,1
+290,EK3EBLK,Engine Block,0,Honda Civic EK3,1995,Japan Recondition,1
+291,EK3CRK,Crank,0,Honda Civic EK3,1995,Japan Recondition,1
+292,EK3CPUL,Crank Pulley,0,Honda Civic EK3,1995,Japan Recondition,1
+293,EK3CNK,Crank Nut and Key,0,Honda Civic EK3,1995,Japan Recondition,1
+294,EK3GBA,Gearbox Auto,0,Honda Civic EK3,1995,Japan Recondition,1
+295,EK3GBMNL,Gearbox Manual,0,Honda Civic EK3,1995,Japan Recondition,1
+296,EK3ALT,Alternator,0,Honda Civic EK3,1995,Japan Recondition,6
+297,EK3ACCMP,AC Compressor,0,Honda Civic EK3,1995,Japan Recondition,7
+298,EK3PSP,Power Steering Pump,0,Honda Civic EK3,1995,Japan Recondition,2
+299,EK3TBC,T Belt Cover,0,Honda Civic EK3,1995,Japan Recondition,1
+300,EK3IMEFI,Intake Manifold EFI,0,Honda Civic EK3,1995,Japan Recondition,1
+301,EK3IMCARB,Intake Manifold Carb,0,Honda Civic EK3,1995,Japan Recondition,1
+302,EK3EMV,Exhaust Manifold Vtec,0,Honda Civic EK3,1995,Japan Recondition,1
+303,EK3EMC,Exhaust Manifold Carb,0,Honda Civic EK3,1995,Japan Recondition,1
+304,EK3WCP,Water Connecting Pipe,0,Honda Civic EK3,1995,Japan Recondition,7
+305,EK3THV,Thermostat Valve,0,Honda Civic EK3,1995,Japan Recondition,7
+306,EK3FS,Fan Sensor,0,Honda Civic EK3,1995,Japan Recondition,7
+307,EK3TS,Temperature Sensor,0,Honda Civic EK3,1995,Japan Recondition,7
+308,EK3TGS,Temperature Gage Sensor,0,Honda Civic EK3,1995,Japan Recondition,7
+309,EK3OXS,Oxygen Sensor,0,Honda Civic EK3,1995,Japan Recondition,6
+310,EK3CCS,Catalytic Converter Sensor,0,Honda Civic EK3,1995,Japan Recondition,6
+311,EK3CCV,Catalytic Converter,0,Honda Civic EK3,1995,Japan Recondition,1
+312,EK3OPS,Oil Pressure Switch,0,Honda Civic EK3,1995,Japan Recondition,6
+313,EK3DIST,Distributor,0,Honda Civic EK3,1995,Japan Recondition,6
+314,EK3PWS,Plug Wire Set,0,Honda Civic EK3,1995,Japan Recondition,6
+315,EK3INJ,Injector,0,Honda Civic EK3,1995,Japan Recondition,6
+316,EK3CARB,Carburetor,0,Honda Civic EK3,1995,Japan Recondition,1
+317,EK3TB,Throttle Body,0,Honda Civic EK3,1995,Japan Recondition,4
+318,EK3EH,Engine Harness,0,Honda Civic EK3,1995,Japan Recondition,6
+319,EK3ECUP01P02P03,"ECU P01, P02, P03",0,Honda Civic EK3,1995,Japan Recondition,6
+320,EK3ECUP07,ECU P07,0,Honda Civic EK3,1995,Japan Recondition,6
+321,EK3ECUP2C,ECU P2C,0,Honda Civic EK3,1995,Japan Recondition,6
+322,EK3ECUPCV,ECU PCV,0,Honda Civic EK3,1995,Japan Recondition,6
+323,EK3ECUP2JJ71,"ECU P2J, J71",0,Honda Civic EK3,1995,Japan Recondition,6
+324,EK3BH,Body Harness,0,Honda Civic EK3,1995,Japan Recondition,6
+325,EK3FB,Fuse Box,0,Honda Civic EK3,1995,Japan Recondition,6
+326,EK3EFB,Engine Fuse Box,0,Honda Civic EK3,1995,Japan Recondition,6
+327,EK3HLH,Headlight Harness,0,Honda Civic EK3,1995,Japan Recondition,6
+328,EK3STM,Starter Motor,0,Honda Civic EK3,1995,Japan Recondition,6
+329,EK3VTSS,Vtec Solenoid Single,0,Honda Civic EK3,1995,Japan Recondition,6
+330,EK3VTSD,Vtec Solenoid Dual,0,Honda Civic EK3,1995,Japan Recondition,6
+331,EK3GBB,Gearbox Bracket,0,Honda Civic EK3,1995,Japan Recondition,4
+332,EK3SMS,Speedometer Sensor,0,Honda Civic EK3,1995,Japan Recondition,6
+333,EK3ODS,Oil Dipstick,0,Honda Civic EK3,1995,Japan Recondition,1
+334,EK3FRL,Fuel Rail,0,Honda Civic EK3,1995,Japan Recondition,1
+335,EK3FF,Fuel Filter,0,Honda Civic EK3,1995,Japan Recondition,1
+336,EK3FH,Fuel Hose,0,Honda Civic EK3,1995,Japan Recondition,1
+337,EK3FP,Fuel Pump,0,Honda Civic EK3,1995,Japan Recondition,6
+338,EK3FT,Fuel Tank,0,Honda Civic EK3,1995,Japan Recondition,1
+339,EK3FTF,Fuel Tank Floater,0,Honda Civic EK3,1995,Japan Recondition,6
+340,EK3FTP,Fuel Tank Pipe,0,Honda Civic EK3,1995,Japan Recondition,1
+341,EK3FBPS,Fuel Brake Pipe Set,0,Honda Civic EK3,1995,Japan Recondition,3
+342,EK3SIP,Silencer Pipe,0,Honda Civic EK3,1995,Japan Recondition,1
+343,EK3MUF,Muffler,0,Honda Civic EK3,1995,Japan Recondition,1
+344,EK3WMS,Wiper Motor Set,0,Honda Civic EK3,1995,Japan Recondition,6
+345,EK3WA,Wiper Arm,0,Honda Civic EK3,1995,Japan Recondition,6
+346,EK3WP,Wiper Panel,0,Honda Civic EK3,1995,Japan Recondition,6
+347,EK3FCUT,Face Cut,0,Honda Civic EK3,1995,Japan Recondition,4
+348,EK3FCUTCRY,Face Cut Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+349,EK3BCUT,Back Cut,0,Honda Civic EK3,1995,Japan Recondition,4
+350,EK3BCUTCRY,Back Cut Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+351,EK3HCUT,Hood Cut,0,Honda Civic EK3,1995,Japan Recondition,4
+352,EK3HCUTCRY,Hood Cut Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+353,EK3NCUT,Nose Cut,0,Honda Civic EK3,1995,Japan Recondition,4
+354,EK3NCUTCRY,Nose Cut Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+355,EK3SCUTRH,Side Cut Right,0,Honda Civic EK3,1995,Japan Recondition,4
+356,EK3SCUTRHCRY,Side Cut Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+357,EK3SCUTLH,Side Cut Left,0,Honda Civic EK3,1995,Japan Recondition,4
+358,EK3SCUTLHCRY,Side Cut Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+359,EK3QPNLRH,Quarter Panel Right,0,Honda Civic EK3,1995,Japan Recondition,4
+360,EK3QPNLRHCRY,Quarter Panel Right Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+361,EK3QPNLLH,Quarter Panel Left,0,Honda Civic EK3,1995,Japan Recondition,4
+362,EK3QPNLLHCRY,Quarter Panel Left Crystal,0,Honda Civic EK3,1999,Japan Recondition,4
+363,EK3BNTL,Bonnet Lock,0,Honda Civic EK3,1995,Japan Recondition,4
+364,EK3BNTC,Bonnet Cabel,0,Honda Civic EK3,1995,Japan Recondition,5
+365,EK3BNTO,Bonnet Opener,0,Honda Civic EK3,1995,Japan Recondition,5
+366,EK3PMSW,Power Mirror Switch,0,Honda Civic EK3,1995,Japan Recondition,6
+367,EK3MR,Main Relay,0,Honda Civic EK3,1995,Japan Recondition,6
